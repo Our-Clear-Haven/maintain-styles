@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maintain-styles-243.pages.dev/sitemap.xml
+Sitemap: https://maintain-styles.pages.dev/sitemap.xml
